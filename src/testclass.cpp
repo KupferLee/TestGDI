@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
 	//why, putin
+	//lol what
 	cout << "Goodbye World!\n";
 	return;
 }
