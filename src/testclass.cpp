@@ -7,6 +7,7 @@ using namespace std;
 //main programm
 int main()
 {
+	//why, putin
 	cout << "Hello World!\n";
 	return;
 }
